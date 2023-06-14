@@ -1,0 +1,71 @@
+appdirs==1.4.4
+Bottleneck @ file:///C:/ci/bottleneck_1648010904582/work
+Braindecode==0.6
+brotlipy==0.7.0
+captum==0.5.0
+certifi @ file:///C:/Windows/TEMP/abs_e9b7158a-aa56-4a5b-87b6-c00d295b01fanefpc8_o/croots/recipe/certifi_1655968940823/work/certifi
+cffi @ file:///C:/ci_310/cffi_1642682485096/work
+charset-normalizer==2.0.12
+colorama==0.4.4
+coverage==5.5
+cryptography @ file:///C:/ci/cryptography_1639414720302/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+dalib==0.2
+decorator==5.1.1
+fonttools==4.25.0
+h5py @ file:///C:/ci/h5py_1637120894255/work
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+Jinja2==3.1.1
+joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
+kiwisolver @ file:///C:/ci/kiwisolver_1644962577370/work
+llvmlite==0.39.1
+MarkupSafe==2.1.1
+matplotlib @ file:///C:/ci/matplotlib-suite_1647423638658/work
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186184308/work
+mkl-service==2.4.0
+mne==1.0.2
+moabb==0.4.6
+munkres==1.1.4
+numba==0.56.2
+numexpr @ file:///C:/ci/numexpr_1640704337920/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1649782970434/work
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas @ file:///C:/ci/pandas_1647936849302/work
+Pillow==9.0.1
+pooch==1.6.0
+prettytable==3.4.1
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyecharts==1.9.1
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+pyreadline==2.1
+pyriemann==0.2.7
+PySocks @ file:///C:/ci/pysocks_1605307512533/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+PyYAML==5.4.1
+qpsolvers==2.7.1
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+resampy==0.4.2
+scikit-learn==1.0.2
+scipy @ file:///C:/ci/scipy_1641555170412/work
+seaborn==0.11.2
+simplejson==3.17.6
+sip==4.19.13
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+skorch==0.11.0
+tabulate==0.8.9
+threadpoolctl==3.1.0
+torch==1.11.0
+torchaudio==0.11.0
+torchsummary==1.5.1
+torchvision==0.12.0
+tornado @ file:///C:/ci/tornado_1606924294691/work
+tqdm==4.64.0
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+urllib3==1.26.9
+wcwidth==0.2.5
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
+wincertstore==0.2
+xlwt==1.3.0
