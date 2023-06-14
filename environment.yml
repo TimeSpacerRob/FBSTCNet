@@ -1,3 +1,4 @@
+# This file may be used to create an Anaconda environment
 name: eeg_ml
 channels:
   - pytorch
